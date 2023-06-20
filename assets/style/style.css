@@ -1,0 +1,32 @@
+body {
+  width: 100%;
+  min-height: 100vh;
+  background-image: radial-gradient(circle, #171424, rgb(35, 35, 35));
+}
+
+.navbar-toggler {
+  background-color: #ffffff;
+}
+
+.dropdown-item:hover {
+  color: white;
+  background-color: grey;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+p {
+  font-size: 1.5em;
+}
+
+p span {
+  color: black;
+  font-style: italic;
+  font-weight: 500;
+}
+
+.accroche {
+  background-color: #ffffff;
+}
